@@ -9,3 +9,5 @@
       else q.push(tmp);
     }
   }
+
+  console.log(solution(8, 3));
