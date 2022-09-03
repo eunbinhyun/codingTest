@@ -1,5 +1,5 @@
 class MinHeap {
-    constructor(arr) {
+    constructor() {
         this.heap = [null];
     }
     
